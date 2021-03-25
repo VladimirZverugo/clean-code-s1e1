@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-    width: 500px;
+    width: 500px;   /*<----   ; if u know what i mean */
     margin: 0 auto;
     display: block;
     text-align: right;
