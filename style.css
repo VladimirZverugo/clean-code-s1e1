@@ -6,17 +6,17 @@ body {
 }
 
 .header {
-    width: 500px;   
+    width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-                                             /*<----  just for commit */
+                        /*<----  just for commit */
 .header img {
     width: 100%;
 }
 
-.header .more-info {
+.header .more_info {
     font-family: fantasy, cursive;
 }
 
@@ -37,13 +37,13 @@ body {
     flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task_row_wrapper {
     display: flex;
 }
 
 ul {
     margin: 0;
-    padding: 0px;
+    padding: 0;
 }
 
 li, h3 {
@@ -55,7 +55,7 @@ input,button{
 }
 button {
     background: none;
-    border: 0px;
+    border: 0;
     color: #888;
     font-size: 15px;
     width: 60px;
@@ -155,7 +155,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#completed_tasks label {
     text-decoration: line-through;
     color: #888;
 }
