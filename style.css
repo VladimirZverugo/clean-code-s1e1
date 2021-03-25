@@ -6,12 +6,12 @@ body {
 }
 
 .header {
-    width: 500px;   /*<----   ; if u know what i mean */
+    width: 500px;   
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-
+                                             /*<----  just for commit */
 .header img {
     width: 100%;
 }
